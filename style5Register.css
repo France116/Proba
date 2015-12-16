@@ -1,0 +1,13 @@
+*{
+}
+body{
+	background-image: url("Pictures/BackgroundPalms.jpg");
+	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center; 
+
+	
+	}
+.container{
+text-align:center;
+}
